@@ -1,0 +1,23 @@
+h1{
+    text-align: center ;
+    background-color: rgb(4, 4, 183);
+    color: white;
+}
+
+
+.row{
+    text-align: center;
+    font-size: 16px;
+    padding-left: 200px;
+}
+
+
+.b{
+    text-align: center;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+.map{
+    text-align: center;
+}
